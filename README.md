@@ -25,3 +25,8 @@ https://blog.ippon.fr/2016/03/31/big-data-panorama-des-solutions-2016/
  
  JPM
  
+https://www.cert.ssi.gouv.fr/information/CERTA-2008-INF-002/
+
+https://www.frameip.com/dns/
+
+ 
