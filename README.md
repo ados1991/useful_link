@@ -29,4 +29,6 @@ https://www.cert.ssi.gouv.fr/information/CERTA-2008-INF-002/
 
 https://www.frameip.com/dns/
 
+https://loopback.io/doc/en/lb4/Crafting-LoopBack-4.html
+
  
