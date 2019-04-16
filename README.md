@@ -40,4 +40,6 @@ https://www.cncf.io/
 https://prometheus.io/docs/introduction/overview/
 
 https://opensource.com/article/18/4/metrics-monitoring-and-python
+
+https://lzone.de/examples/Python%20re.sub
  
