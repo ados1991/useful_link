@@ -44,3 +44,5 @@ https://opensource.com/article/18/4/metrics-monitoring-and-python
 https://lzone.de/examples/Python%20re.sub
 
 https://www.dell.com/fr-fr/work/shop/nos-solutions-serveurs-stockage-et-r%C3%A9seaux/smart-value-flexi-poweredge-t640-16x25-2x4114-2x16gb-2x300gb-15k-sas-h730p-3yr-nbd/spd/poweredge-t640/PET6404
+
+https://stackoverflow.com/questions/10858787/what-are-the-uses-for-tags-in-go
