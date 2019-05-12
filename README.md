@@ -50,3 +50,5 @@ https://stackoverflow.com/questions/10858787/what-are-the-uses-for-tags-in-go
 https://en.wikipedia.org/wiki/Drop-down_list
 
 https://medium.com/@prabhavjain/adventures-with-gunicorn-supervisor-graceful-reload-on-code-changes-a13b221d946b
+
+https://en.wikipedia.org/wiki/Parsing
