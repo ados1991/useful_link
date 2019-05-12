@@ -48,3 +48,5 @@ https://www.dell.com/fr-fr/work/shop/nos-solutions-serveurs-stockage-et-r%C3%A9s
 https://stackoverflow.com/questions/10858787/what-are-the-uses-for-tags-in-go
 
 https://en.wikipedia.org/wiki/Drop-down_list
+
+https://medium.com/@prabhavjain/adventures-with-gunicorn-supervisor-graceful-reload-on-code-changes-a13b221d946b
