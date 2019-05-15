@@ -52,3 +52,5 @@ https://en.wikipedia.org/wiki/Drop-down_list
 https://medium.com/@prabhavjain/adventures-with-gunicorn-supervisor-graceful-reload-on-code-changes-a13b221d946b
 
 https://en.wikipedia.org/wiki/Parsing
+
+https://opensource.com/article/17/9/python-logging
