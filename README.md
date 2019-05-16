@@ -54,3 +54,5 @@ https://medium.com/@prabhavjain/adventures-with-gunicorn-supervisor-graceful-rel
 https://en.wikipedia.org/wiki/Parsing
 
 https://opensource.com/article/17/9/python-logging
+
+https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/#Don%E2%80%99t_forget_about_the_glob_module
