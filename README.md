@@ -1,4 +1,4 @@
-# usefull_link
+# useful_link
 
 https://opentracing.io/
 
@@ -56,3 +56,5 @@ https://en.wikipedia.org/wiki/Parsing
 https://opensource.com/article/17/9/python-logging
 
 https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/#Don%E2%80%99t_forget_about_the_glob_module
+
+https://fr.slideshare.net/lisachenko/solving-crosscutting-concerns-in-php
