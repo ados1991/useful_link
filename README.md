@@ -59,3 +59,5 @@ https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/#Don%E2%80%99t_fo
 
 https://fr.slideshare.net/lisachenko/solving-crosscutting-concerns-in-php
 https://bestofjs.org/tags/dashboard
+
+http://open.qa/docs/
