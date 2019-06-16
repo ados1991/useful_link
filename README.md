@@ -61,3 +61,7 @@ https://fr.slideshare.net/lisachenko/solving-crosscutting-concerns-in-php
 https://bestofjs.org/tags/dashboard
 
 http://open.qa/docs/
+
+kubernetes
+
+https://medium.com/containermind/a-beginners-guide-to-kubernetes-7e8ca56420b6
