@@ -65,3 +65,4 @@ http://open.qa/docs/
 kubernetes
 
 https://medium.com/containermind/a-beginners-guide-to-kubernetes-7e8ca56420b6
+https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/
