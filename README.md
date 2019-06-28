@@ -68,3 +68,5 @@ https://medium.com/containermind/a-beginners-guide-to-kubernetes-7e8ca56420b6
 https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/
 https://lenadroid.github.io/posts/stateful-sets-kubernetes-azure.html
 https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ingress-guide-nginx-example.html
+
+https://www.coveros.com/devops-isnt-just-about-releasing-faster/
