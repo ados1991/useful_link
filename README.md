@@ -70,3 +70,4 @@ https://lenadroid.github.io/posts/stateful-sets-kubernetes-azure.html
 https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ingress-guide-nginx-example.html
 
 https://www.coveros.com/devops-isnt-just-about-releasing-faster/
+https://fr.slideshare.net/roidelapluie/taking-advantage-of-prometheus-relabeling-109483749
