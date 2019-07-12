@@ -71,3 +71,6 @@ https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ingress-g
 
 https://www.coveros.com/devops-isnt-just-about-releasing-faster/
 https://fr.slideshare.net/roidelapluie/taking-advantage-of-prometheus-relabeling-109483749
+
+
+https://stackoverflow.com/questions/1927544/for-loop-first-iteration
