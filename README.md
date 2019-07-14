@@ -75,3 +75,4 @@ https://fr.slideshare.net/roidelapluie/taking-advantage-of-prometheus-relabeling
 
 https://stackoverflow.com/questions/1927544/for-loop-first-iteration
 https://www.afternerd.com/blog/python-enumerate/
+https://cheatsheet.dennyzhang.com/
