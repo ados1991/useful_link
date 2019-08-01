@@ -77,3 +77,7 @@ https://stackoverflow.com/questions/1927544/for-loop-first-iteration
 https://www.afternerd.com/blog/python-enumerate/
 https://cheatsheet.dennyzhang.com/
 https://zestedesavoir.com/articles/1568/decouvrons-la-programmation-asynchrone-en-python/
+ 
+https://refactoring.guru/smells/primitive-obsession 
+https://www.ponylang.io/reference/pony-performance-cheatsheet/ 
+ 
