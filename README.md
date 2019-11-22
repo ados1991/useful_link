@@ -81,4 +81,9 @@ https://zestedesavoir.com/articles/1568/decouvrons-la-programmation-asynchrone-e
 https://refactoring.guru/smells/primitive-obsession 
 https://www.ponylang.io/reference/pony-performance-cheatsheet/ 
 https://harishnarayanan.org/writing/kubernetes-django/
+
+
+azure :
+https://social.technet.microsoft.com/wiki/contents/articles/52169.azure-load-balancer-features-and-deployment-scenarios.aspx
+
  
